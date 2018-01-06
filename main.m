@@ -17,7 +17,7 @@ clc, close all
 
 lambda=2e-1;
 mu=3e-1;
-Nsim=10000;
+Nsim=1000;
 % p=lambda/(lambda+mu);
 % V=0;
 % for j=2:Nsim

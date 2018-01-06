@@ -55,8 +55,8 @@ for i=2:Nsim-1
     plot([T(i) T(i)],[S1(i-1) S1(i)],':g');
     plot([T(i) T(i+1)],[S1(i) S1(i)],'g');
     
-    plot([T(i) T(i)],[S1(i-1) S1(i)],':g');
-    plot([T(i) T(i+1)],[S1(i) S1(i)],'g');
+    plot([T(i) T(i)],[S2(i-1) S2(i)],':m');
+    plot([T(i) T(i+1)],[S2(i) S2(i)],'m');
 end
 
 
